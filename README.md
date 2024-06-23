@@ -1,35 +1,39 @@
-#Netflix Clone
+# Netflix Clone
 
 This project is a clone of the Netflix interface built using React. It leverages an API to fetch movie and TV show data and utilizes useState for state management along with Axios for making HTTP requests.
 
-##Features
+## Features
 
 Displays a list of movies and TV shows fetched from an external API.
 Allows users to browse through different categories of content.
 Provides a responsive design for various screen sizes.
 
-##Technologies Used
+## Technologies Used
 
-React: JavaScript library for building user interfaces.
-Axios: Promise-based HTTP client for making requests to the API.
-API: Integration with a movie database API to fetch dynamic content.
-useState: React hook for managing state within functional components.
+**React**: JavaScript library for building user interfaces.
 
-##Installation
+**Axios**: Promise-based HTTP client for making requests to the API.
+
+**API**: Integration with a movie database API to fetch dynamic content.
+
+**useState**: React hook for managing state within functional components.
+
+## Installation
 
 To run this project locally, follow these steps:
 
-Clone the repository:
+### Clone the repository:
 
-   `git clone https://github.com/yourusername/netflix-clone.git`
-   `cd netflix-clone`
+`git clone https://github.com/yourusername/netflix-clone.git`
 
-###Install dependencies:
+`cd netflix-clone`
 
-  npm install
+### Install dependencies:
 
-###Start the development server:
+`npm install`
 
-  npm start
+### Start the development server:
 
-Open http://localhost:3000 in your browser to view the app.
+`npm start`
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
